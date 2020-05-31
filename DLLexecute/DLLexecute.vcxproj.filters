@@ -20,9 +20,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DLLexecute.cpp">
-      <Filter>ソース ファイル</Filter>
-    </ClCompile>
     <ClCompile Include="Bmi\Bmi.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
